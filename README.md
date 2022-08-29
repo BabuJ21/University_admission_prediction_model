@@ -63,13 +63,17 @@ $ git commit -am "make it better"
 $ git push heroku master
 ```
 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 
-MIT License [MIT](https://choosealicense.com/licenses/mit/)
+
+## MIT License 
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) [2022] [Babu Jayaraman]
 
