@@ -1,12 +1,8 @@
-# University_admission_prediction_model
-Used to predict the chances of university admission for the students
+University admission prediction model
+Build a Model which is able to predict chances of students to get the admission from the university using Admission_prediction dataset.
 
-University admission prediction model:
-======================================
-built a model which is able to predict chances of students to get the admission from the university using Admission_prediction dataset.
 
-Description of dataset:
-=======================
+Description of dataset
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
 
 GRE Scores ( out of 340 )
