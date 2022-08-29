@@ -1,9 +1,12 @@
 # University admission prediction model:
 
 ## Description of the project:
+
 Build a Model which is able to predict chances of students to get the admission from the university using Admission_prediction dataset.
 
+
 ## Description of dataset:
+
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
 
 - GRE Scores ( out of 340 )
