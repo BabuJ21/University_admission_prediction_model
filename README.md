@@ -68,11 +68,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
 
 MIT License [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) [year] [Babu Jayaraman]
+Copyright (c) [2022] [Babu Jayaraman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
